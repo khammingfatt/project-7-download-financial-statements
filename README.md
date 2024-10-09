@@ -1,4 +1,4 @@
-# Financial Statement ETL from Yahoo Finance()
+# [Extract Financial Statements from Yahoo Finance](https://project-7-download-financial-statements-jgtsw7vavcfcwnhgpf4jyh.streamlit.app/)
 
 This Streamlit app allows users to extract financial statements for any publicly traded company using Yahoo Finance. The app pulls **Income Statement**, **Balance Sheet**, and **Cash Flow Statement** data based on the stock ticker symbol input by the user. It displays the financial statements in the app and provides an option to download the data as an Excel file.
 
